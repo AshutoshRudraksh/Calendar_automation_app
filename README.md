@@ -8,7 +8,7 @@ This is a command-line application to automate your Google Calendar using Python
 - Python 3.x
 - Google Calendar API credentials (stored in `credentials/credentials.json`)
 
-## Setup
+## Setup:
 
 1. Clone the repository and navigate to the project directory:
    ```sh
